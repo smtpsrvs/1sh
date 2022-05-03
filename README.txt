@@ -1,8 +1,8 @@
-#Пример команды 
+#Command example
 
 ./1.sh result.txt
 
-Где:
-./1.sh   запуск скрипта
-result.txt  результат  c масскана
-out.txt  результат после обработки
+#:
+./1.sh   running the script
+result.txt  result from masscan
+out.txt  result after processing
